@@ -1,0 +1,126 @@
+body {
+  background-color: #06113C;
+  margin:0;
+}
+.container-fluid{
+  width: 100%
+}
+.btn {
+font-family: "Montserrat";
+padding-left: 2%;
+padding-right: 2%;
+margin-right:1rem;
+font-weight: 700;
+
+}
+
+.registrati {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.top-buttons{
+  text-align: right;
+  position:relative;
+  right:2rem;
+  padding-top:3%;
+}
+.cactus-title-shadow{
+  display: inline-block;
+font-family: "DotGothic16";
+  transform: translate(-50%, -50%);
+  transform: scale(1.3, 0.9);
+  font-size:7rem;
+	letter-spacing:0.1em;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #91D8E4;
+  text-shadow:
+						5px 5px #EAFDFC,
+						10px 10px #000000;
+}
+
+.subtitle {
+font-family: "DotGothic16";
+transform: scale(1, 0.9);
+font-size:2rem;
+color: white;
+}
+.container-titolo {
+  position: absolute;
+  top: 12rem;
+  text-align: center;
+
+}
+.change-color{
+color: white;
+}
+
+.comincia {
+  margin-top:4rem;
+  padding-right:2%;
+  padding-left:2%;
+  padding-top:1%;
+  padding-bottom:1%;
+
+}
+
+.cactus3{
+  position:absolute;
+  top:-5%;
+  left:-5%;
+  width: 25%;
+  transform: rotate(330deg);
+}
+.cactus2{
+  position:absolute;
+  width: 20%;
+  transform: rotate(30deg);
+  bottom: 5%;
+  margin-bottom:0;
+  left:-3%;
+
+}
+.cactus4{
+  position:absolute;
+  width: 15%;
+  transform: rotate(20deg);
+  bottom: 2%;
+  right: 15%;
+  margin-bottom:0;
+
+}
+.cactus5{
+  position:absolute;
+  width: 10%;
+  transform: rotate(5deg);
+  bottom: 9%;
+  left: 50%;
+}
+.cactus6{
+  position:absolute;
+  width: 7%;
+  transform: rotate(250deg);
+  right: 1%;
+  bottom: 40%;
+}
+.cactus7{
+  position:absolute;
+  width: 8%;
+  transform: rotate(340deg);
+  bottom: 15%;
+  left:23%
+}
+.cactus8{
+  position:absolute;
+  width: 16%;
+  transform: rotate(30deg);
+  right: 5%;
+  top: 20%
+}
+.cactus9{
+  position:absolute;
+  width: 8%;
+  transform: rotate(290deg);
+  left: 15%;
+  bottom: 40%
+}
